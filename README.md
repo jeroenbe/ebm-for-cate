@@ -1,4 +1,4 @@
-# Identifiable Energy-based Representations: An Application to Estimating Heterogeneous Causal Effects </br><sub><sub>Yao Zhang*, Jeroen Berrevoets*, Mihaela van der Schaar</sub></sub>
+# Identifiable Energy-based Representations: An Application to Estimating Heterogeneous Causal Effects </br><sub><sub>Yao Zhang*, Jeroen Berrevoets*, Mihaela van der Schaar [AISTATS, 2022 (forthcoming)]</sub></sub>
 
 In this repository we provide code for our paper on EBMs for CATE estimation. The structure of this repository is as follows:
 ```bash
