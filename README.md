@@ -57,3 +57,5 @@ Our code relies on the following packages:
     - `matplotlib 3.4.2`
 
 Note that we have not provided an end-to-end scheme to generate results directly from training. This is due to our use of weights and biases, which we use to save model weights.
+
+*Equal contribution
